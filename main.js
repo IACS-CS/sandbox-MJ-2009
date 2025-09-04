@@ -16,7 +16,7 @@ if (color === "pink") {
 } else ti.output("oh " + color + " is cool");
 ti.output ("what do you want to do with your life?");
 let life = await ti.prompt("what do you want to do with your life?");
-if (life === "be a coder like mason") {
+if (life === "be a coder") {
   ti.output("good choice " + name + " you will be great");
 } else ti.output("oh " + life + " sucks you should follow in masons footsteps");  
 ti.output("Goodbye my friend " + name + " I love you ish ");
