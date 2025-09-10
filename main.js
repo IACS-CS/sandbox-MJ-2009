@@ -30,7 +30,9 @@ if (naruto === "shikamaru") {
   ti.output ("ts is kinda valid but still basic")
 } if (naruto=== "genma") { 
 ti.output ("holy goat u know ball ur my fav :) <3")
-} if (naruto=== itachi) { 
+} if (naruto=== "itachi") { 
   ti.output ("lowky overated but fair pick hes kinda fire")
-} else 
-  ti.output ("lowky" + naruto , "is a bottom five person oat" )
+} else {
+
+    ti.output("lowkey " + naruto + " is a bottom five person oat");
+  }
